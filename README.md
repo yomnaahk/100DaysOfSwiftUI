@@ -9,7 +9,7 @@ I will code every day and push my progress here to GitHub.
 
 | Day | Date       | Topic / Project          | Status      |
 |-----|------------|--------------------------|-------------|
-| 1   | 2025-09-14 | Variables, constants, strings, and numbers  |  ⏳ Pending   |
+| 1   | 2025-09-14 | Variables, constants, strings, and numbers  |  ✅ Done   |
 | 2   | 2025-09-15 |  Booleans, string interpolation, and checkpoint 1                        | ⏳ Pending  |
 | 3   | 2025-09-16 |                          | ⏳ Pending  |
 | 4   | 2025-09-17 |                          | ⏳ Pending  |
