@@ -11,8 +11,8 @@ I will code every day and push my progress here to GitHub.
 |-----|------------|--------------------------|-------------|
 | 1   | 2025-09-14 | Variables, constants, strings, and numbers  |  ✅ Done   |
 | 2   | 2025-09-15 |  Booleans, string interpolation, and checkpoint 1                        | ✅ Done |
-| 3   | 2025-09-16 |                          | ⏳ Pending  |
-| 4   | 2025-09-17 |                          | ⏳ Pending  |
+| 3   | 2025-09-16 | Arrays, dictionaries, sets, and enums                         | ✅ Done   |
+| 4   | 2025-09-17 |              Type annotations and checkpoint 2            | ⏳ Pending  |
 | 5   | 2025-09-18 |                          | ⏳ Pending  |
 | 6   | 2025-09-19 |                          | ⏳ Pending  |
 | 7   | 2025-09-20 |                          | ⏳ Pending  |
