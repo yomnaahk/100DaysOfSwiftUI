@@ -1,23 +1,24 @@
 # 100 Days of SwiftUI 🚀
 
 I’m committing to the 100 Days of SwiftUI challenge!  
-I will code every day and push my progress here to GitHub.
+I will code every day and push my progress here to GitHub.  
+⚡️ Some days I may complete more than one “day” from the challenge, so I might finish in fewer than 100 calendar days — but I’ll still cover all 100 days of content.
 
 ---
 
 ## Progress
 
-| Day | Date       | Topic / Project          | Status      |
-|-----|------------|--------------------------|-------------|
-| 1   | 2025-09-14 | Variables, constants, strings, and numbers  |  ✅ Done   |
-| 2   | 2025-09-15 |  Booleans, string interpolation, and checkpoint 1                        | ✅ Done |
-| 3   | 2025-09-16 | Arrays, dictionaries, sets, and enums                         | ✅ Done   |
-| 4   | 2025-09-17 |              Type annotations and checkpoint 2            | ⏳ Pending  |
-| 5   | 2025-09-18 |                          | ⏳ Pending  |
-| 6   | 2025-09-19 |                          | ⏳ Pending  |
-| 7   | 2025-09-20 |                          | ⏳ Pending  |
-| 8   | 2025-09-21 |                          | ⏳ Pending  |
-| 9   | 2025-09-22 |                          | ⏳ Pending  |
+| Day | Date       | Topic / Project                                | Status      |
+|-----|------------|------------------------------------------------|-------------|
+| 1   | 2025-09-14 | Variables, constants, strings, and numbers      | ✅ Done     |
+| 2   | 2025-09-14 | Booleans, string interpolation, and checkpoint 1 | ✅ Done     |
+| 3   | 2025-09-14 | Arrays, dictionaries, sets, and enums           | ✅ Done     |
+| 4   | 2025-09-15 | Type annotations and checkpoint 2               | ⏳ Pending |
+| 5   | 2025-09-16 |                                                 | ⏳ Pending  |
+| 6   | 2025-09-17 |                                               | ⏳ Pending  |
+| 7   | 2025-09-18 |                                               | ⏳ Pending  |
+| 8   | 2025-09-19 |                                               | ⏳ Pending  |
+| 9   | 2025-09-20 |                                               | ⏳ Pending  |
 | 10  | 2025-09-23 |                          | ⏳ Pending  |
 | 11  | 2025-09-24 |                          | ⏳ Pending  |
 | 12  | 2025-09-25 |                          | ⏳ Pending  |
