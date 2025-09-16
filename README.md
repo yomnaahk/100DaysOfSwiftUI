@@ -15,8 +15,8 @@ I will code every day and push my progress here to GitHub.
 | 3   | 2025-09-14 | Arrays, dictionaries, sets, and enums         | ✅ Done     |
 | 4   | 2025-09-15 | Type annotations and checkpoint 2             | ✅ Done  |
 | 5   | 2025-09-16 | If, switch, and the ternary operator          | ✅ Done  |
-| 6   | 2025-09-17 | Loops, summary, and checkpoint 3              | ⏳ Pending  |
-| 7   | 2025-09-18 |                                               | ⏳ Pending  |
+| 6   | 2025-09-16 | Loops, summary, and checkpoint 3              | ✅ Done   |
+| 7   | 2025-09-17 | Functions, parameters, and return values      | ⏳ Pending  |
 | 8   | 2025-09-19 |                                               | ⏳ Pending  |
 | 9   | 2025-09-20 |                                               | ⏳ Pending  |
 | 10  | 2025-09-23 |                          | ⏳ Pending  |
