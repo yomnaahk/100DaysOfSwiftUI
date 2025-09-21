@@ -18,8 +18,8 @@ I will code every day and push my progress here to GitHub.
 | 6   | 2025-09-16 | Loops, summary, and checkpoint 3              | ✅ Done   |
 | 7   | 2025-09-17 | Functions, parameters, and return values      | ✅ Done  |
 | 8   | 2025-09-18 | Default values, throwing functions, and checkpoint 4  | ✅ Done   |
-| 9   | 2025-09-19 |  Closures, passing functions into functions, and checkpoint 5  | ✅ Done|
-| 10  | 2025-09-23 |                          | ⏳ Pending  |
+| 9   | 2025-09-20 |  Closures, passing functions into functions, and checkpoint 5  | ✅ Done|
+| 10  | 2025-09-21 |  Structs, computed properties, and property observers   | ✅ Done |
 | 11  | 2025-09-24 |                          | ⏳ Pending  |
 | 12  | 2025-09-25 |                          | ⏳ Pending  |
 | 13  | 2025-09-26 |                          | ⏳ Pending  |
