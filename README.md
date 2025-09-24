@@ -20,7 +20,7 @@ I will code every day and push my progress here to GitHub.
 | 8   | 2025-09-18 | Default values, throwing functions, and checkpoint 4  | ✅ Done   |
 | 9   | 2025-09-20 |  Closures, passing functions into functions, and checkpoint 5  | ✅ Done|
 | 10  | 2025-09-21 |  Structs, computed properties, and property observers   | ✅ Done |
-| 11  | 2025-09-24 |                          | ⏳ Pending  |
+| 11  | 2025-09-24 | Access control, static properties and methods, and checkpoint 6  | ✅ Done |
 | 12  | 2025-09-25 |                          | ⏳ Pending  |
 | 13  | 2025-09-26 |                          | ⏳ Pending  |
 | 14  | 2025-09-27 |                          | ⏳ Pending  |
