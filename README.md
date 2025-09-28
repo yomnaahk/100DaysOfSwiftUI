@@ -22,7 +22,7 @@ I will code every day and push my progress here to GitHub.
 | 10  | 2025-09-21 |  Structs, computed properties, and property observers   | ✅ Done |
 | 11  | 2025-09-24 | Access control, static properties and methods, and checkpoint 6  | ✅ Done |
 | 12  | 2025-09-25 | Classes, inheritance, and checkpoint 7 | ✅ Done |
-| 13  | 2025-09-26 | Protocols, extensions, and checkpoint 8 | ⏳ Pending  |
+| 13  | 2025-09-26 | Protocols, extensions, and checkpoint 8 | ✅ Done |
 | 14  | 2025-09-27 | Optionals, nil coalescing, and checkpoint 9 | ⏳ Pending  |
 | 15  | 2025-09-28 |                          | ⏳ Pending  |
 | 16  | 2025-09-29 |                          | ⏳ Pending  |
