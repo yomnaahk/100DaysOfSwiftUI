@@ -2,7 +2,7 @@
 //  WeSplitUITests.swift
 //  WeSplitUITests
 //
-//  Created by Yomna on 10/1/25.
+//  Created by Yomna on 10/2/25.
 //
 
 import XCTest
