@@ -25,7 +25,7 @@ I will code every day and push my progress here to GitHub.
 | 13  | 2025-09-26 | Protocols, extensions, and checkpoint 8 | ✅ Done |
 | 14  | 2025-09-27 | Optionals, nil coalescing, and checkpoint 9 | ⏳ Pending  |
 | 15  | 2025-09-28 | Swift review       | ✅ Done |
-| 16  | 2025-09-29 | Project 1, part one | ⏳ Pending  |
+| 16  | 2025-09-29 | Project 1, part one | ✅ Done |
 | 17  | 2025-09-30 |                          | ⏳ Pending  |
 | 18  | 2025-10-01 |                          | ⏳ Pending  |
 | 19  | 2025-10-02 |                          | ⏳ Pending  |
