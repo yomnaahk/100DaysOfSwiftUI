@@ -28,7 +28,7 @@ I will code every day and push my progress here to GitHub.
 | 16  | 2025-09-29 | Project 1, part one | ✅ Done |
 | 17  | 2025-09-30 | Project 1, part two  | ✅ Done |
 | 18  | 2025-10-01 | Project 1, part three     | ✅ Done |
-| 19  | 2025-10-02 |                          | ⏳ Pending  |
+| 19  | 2025-10-02 |                          | ✅ Done |
 | 20  | 2025-10-03 |                          | ⏳ Pending  |
 | 21  | 2025-10-04 |                          | ⏳ Pending  |
 | 22  | 2025-10-05 |                          | ⏳ Pending  |
