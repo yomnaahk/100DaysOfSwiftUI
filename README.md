@@ -32,7 +32,7 @@ I will code every day and push my progress here to GitHub.
 | 20  | 2025-10-03 | Project 2, part one     | ✅ Done |
 | 21  | 2025-10-04 | Project 2, part two    | ✅ Done  |
 | 22  | 2025-10-05 | Project 2, part three | ✅ Done |
-| 23  | 2025-10-06 |                          | ⏳ Pending  |
+| 23  | 2025-10-06 |   Project 3, part one   | ✅ Done |
 | 24  | 2025-10-07 |                          | ⏳ Pending  |
 | 25  | 2025-10-08 |                          | ⏳ Pending  |
 | 26  | 2025-10-09 |                          | ⏳ Pending  |
