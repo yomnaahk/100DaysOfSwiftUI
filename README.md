@@ -34,7 +34,7 @@ I will code every day and push my progress here to GitHub.
 | 22  | 2025-10-05 | Project 2, part three | ✅ Done |
 | 23  | 2025-10-06 |   Project 3, part one   | ✅ Done |
 | 24  | 2025-10-07 |   Project 3, part two                       |✅ Done  |
-| 25  | 2025-10-08 |                          | ⏳ Pending  |
+| 25  | 2025-10-08 |                          |✅ Done  |
 | 26  | 2025-10-09 |                          | ⏳ Pending  |
 | 27  | 2025-10-10 |                          | ⏳ Pending  |
 | 28  | 2025-10-11 |                          | ⏳ Pending  |
